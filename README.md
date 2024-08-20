@@ -7,10 +7,10 @@ I’m a passionate **Java Full-Stack Developer** and **Sport Programmer** with o
 - 🎯 **Focus Areas**: Full-Stack Development, Problem Solving, API Development, Code Optimization
 
 ### My GitHub Stats:
-![Your GitHub Stats](https://github-readme-stats.vercel.app/api?username=YourGitHubUsername&show_icons=true&theme=radical)
+![Your GitHub Stats](https://github-readme-stats.vercel.app/api?username=noor52&show_icons=true&theme=radical)
 
 ### Top Languages:
-![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=YourGitHubUsername&layout=compact&theme=radical)
+![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=noor52&layout=compact&theme=radical)
 
 ### Connect with Me:
 - [LinkedIn](https://www.linkedin.com/in/md-noor-e-alam-siddiki/)
