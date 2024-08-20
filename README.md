@@ -1,16 +1,20 @@
-## Hi there 👋
+# Hi there! 👋
 
-<!--
-**noor52/noor52** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+I’m a passionate **Java Full-Stack Developer** and **Sport Programmer** with over **6 years** of experience working on large-scale projects. My expertise spans across front-end and back-end development, and I have a deep understanding of software engineering principles and practices.
 
-Here are some ideas to get you started:
+- 🌟 **Key Skills**: Java, Spring Boot, Hibernate, RESTful APIs, Angular, JavaScript, SQL, Git
+- 🚀 **Experience**: Developed and maintained numerous high-impact applications for clients in various industries.
+- 🎯 **Focus Areas**: Full-Stack Development, Problem Solving, API Development, Code Optimization
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+### My GitHub Stats:
+![Your GitHub Stats](https://github-readme-stats.vercel.app/api?username=YourGitHubUsername&show_icons=true&theme=radical)
+
+### Top Languages:
+![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=YourGitHubUsername&layout=compact&theme=radical)
+
+### Connect with Me:
+- [LinkedIn]([https://www.linkedin.com/in/md-noor-e-alam-siddiki/)]
+- [Email](nooralam52stamford@gmail.com)
+
+Looking forward to collaborating on exciting projects and sharing knowledge with the community!
+
