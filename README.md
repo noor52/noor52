@@ -13,7 +13,7 @@ I’m a passionate **Java Full-Stack Developer** and **Sport Programmer** with o
 ![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=YourGitHubUsername&layout=compact&theme=radical)
 
 ### Connect with Me:
-- [LinkedIn]([https://www.linkedin.com/in/md-noor-e-alam-siddiki/)]
+- [LinkedIn](https://www.linkedin.com/in/md-noor-e-alam-siddiki/)
 - [Email](nooralam52stamford@gmail.com)
 
 Looking forward to collaborating on exciting projects and sharing knowledge with the community!
